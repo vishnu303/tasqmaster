@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Clean main lobby",
+      "description": "Dust surfaces, wipe doors, and keep the lobby ready for visitors",
+      "priority": "high",
+      "status": "inprogress",
+      "createdAt": "2025-12-01T08:30:00.000Z",
+      "checklist": [
+        "Dust reception counter and plants",
+        "Polish glass entry doors",
+        "Sweep and mop tile floor"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Refresh staff lounge",
+      "description": "Tidy the lounge by wiping tables, cleaning appliances, and airing out space",
+      "priority": "medium",
+      "status": "pending",
+      "createdAt": "2025-12-02T11:15:00.000Z",
+      "checklist": [
+        "Wipe coffee station and microwave",
+        "Sanitize tables and seating",
+        "Open windows and empty trash"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Sanitize restrooms",
+      "description": "Deep clean shared restrooms for staff and visitors",
+      "priority": "low",
+      "status": "completed",
+      "createdAt": "2025-11-30T09:15:00.000Z",
+      "checklist": [
+        "Disinfect sinks and faucets",
+        "Restock soap and paper goods",
+        "Mop floors with disinfectant"
+      ]
+    }
+  ]
+}
